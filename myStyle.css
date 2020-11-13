@@ -1,5 +1,14 @@
-document body {
+/*document body {
    width: 100%;
+}*/
+
+#backphoto .photo-overlay .inner {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
 }
 
 .bigbanner {
@@ -18,11 +27,11 @@ document body {
   background-color: pink;
 }
 
-/*.backphoto {
+.backphoto {
     width: 100%;
     background-image: url('1.jpg');
     background-repeat: no-repeat;
     background-size: contain;
-    border: 2px solid #e9385a;
+    filter: brightness(70%);
 }
 */
