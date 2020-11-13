@@ -1,0 +1,28 @@
+document body {
+   width: 100%;
+}
+
+.bigbanner {
+  background-color: green;
+}
+
+.text {
+  background-color: blue;
+}
+
+.gallery {
+  background-color: red;
+}
+
+.footer {
+  background-color: pink;
+}
+
+/*.backphoto {
+    width: 100%;
+    background-image: url('1.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 2px solid #e9385a;
+}
+*/
