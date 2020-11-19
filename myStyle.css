@@ -11,12 +11,8 @@
     flex-flow: column wrap;
 }
 
-.bigbanner {
-  background-color: green;
-}
-
 .text {
-  background-color: blue;
+
 }
 
 .gallery {
@@ -29,9 +25,8 @@
 
 .backphoto {
     width: 100%;
-    background-image: url('1.jpg');
     background-repeat: no-repeat;
     background-size: contain;
-    filter: brightness(70%);
+    filter: brightness(110%);
 }
-*/
+
