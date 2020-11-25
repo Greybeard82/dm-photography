@@ -6329,4 +6329,8 @@ button.close {
     display: none !important;
   }
 }
+
+#i {
+  background-size: cover;
+}
 /*# sourceMappingURL=bootstrap.css.map */
