@@ -1,0 +1,29 @@
+.title {
+  margin-top: 80px;
+  margin-left: 5%;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.text {
+  margin-top: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 16px;
+  text-align: left;
+  word-spacing: 5px;
+}
+
+.subtitle {
+  top-margin: 30px;
+  font-size: 18px;
+  margin-left: 7%;
+}
+
+.subtext {
+  font-size: 16px;
+}
+
+l {
+  font-size: 60px !important;
+}

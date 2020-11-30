@@ -1,0 +1,21 @@
+/*document body {
+   width: 100%;
+}*/
+
+#backphoto .photo-overlay .inner {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+
+
+.backphoto {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    filter: brightness(110%);
+}
+
