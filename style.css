@@ -3,12 +3,12 @@
 }*/
 
 #backphoto .photo-overlay .inner {
-    height: 100%;
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-flow: column wrap;
+    height: 100%;
+    width: 100%;
 }
 
 
@@ -19,3 +19,14 @@
     filter: brightness(120%);
 }
 
+i {
+  background-size: contain;
+}
+
+.logowhite {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 50%;
+  background-size: contain;
+}
