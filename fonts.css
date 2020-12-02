@@ -1,29 +1,44 @@
 .title {
-  margin-top: 80px;
-  margin-left: 5%;
-  font-size: 25px;
-  font-weight: bold;
+  margin-top: 100px;
+  margin-left: 20%;
+  font-size: 30px;
+  font-weight: 400;
 }
 
-.text {
+.texttop {
+  font-weight: 300;
   margin-top: 30px;
-  margin-left: 5%;
-  margin-right: 5%;
-  font-size: 24px;
+  margin-left: 20%;
+  margin-right: 20%;
+  line-height: 22.5px;
+  font-size: 15px;
   text-align: left;
   word-spacing: 5px;
+  text-decoration: none solid rgba(0, 0, 0, 0.9)
+}
+
+.textbottom {
+  padding-top: 30px;
+  font-weight: 300;
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  line-height: 22.5px;
+  font-size: 15px;
+  text-align: left;
+  word-spacing: 5px;
+  padding-bottom: 100px;
 }
 
 .subtitle {
   top-margin: 30px;
-  font-size: 22px;
-  margin-left: 7%;
+  font-size: 17px;
+  margin-left: 23%;
+  font-weight: 400;
 }
 
 .subtext {
-  font-size: 20px;
-}
-
-l {
-  font-size: 60px !important;
+  padding-left: 22%;
+  font-size: 15px;
+  text-align: left;
 }
