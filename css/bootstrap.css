@@ -18,7 +18,6 @@ aside,
 details,
 figcaption,
 figure,
-footer,
 header,
 hgroup,
 main,
@@ -931,9 +930,9 @@ a:focus {
 figure {
   margin: 0;
 }
-img {
+/*img {
   vertical-align: middle;
-}
+}*/
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
@@ -6330,7 +6329,4 @@ button.close {
   }
 }
 
-#i {
-  background-size: cover;
-}
 /*# sourceMappingURL=bootstrap.css.map */

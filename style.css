@@ -6,7 +6,15 @@
 }
 
 .logowhite {
-  display: flex;
-  position: top;
   height: 40%;
+}
+
+.foottitle {
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+.contdetails {
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
