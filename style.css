@@ -2,7 +2,7 @@
     width: 100%;
     background-repeat: no-repeat;
     background-size: contain;
-    filter: brightness(120%);
+    filter: brightness(110%);
 }
 
 .logowhite {
@@ -15,6 +15,8 @@
 }
 
 .contdetails {
-  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
   padding-bottom: 5%;
 }
+
